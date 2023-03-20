@@ -1,4 +1,4 @@
-sd// program to add two number
+ssssd// program to add two number
 // ool
 #include<stdio.h>
 int add(int a,int b)
