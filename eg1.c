@@ -1,6 +1,7 @@
 ssssd// program to add two number
 // ool
 #include<stdio.h>
+#include<string.h>
 int add(int a,int b)
 {
 return a+b;
